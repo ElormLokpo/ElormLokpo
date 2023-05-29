@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elorm Lokpo</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 
 - 🔭 I’m currently working on **scalable backend api's**
