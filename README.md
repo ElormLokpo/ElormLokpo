@@ -13,28 +13,28 @@
 
 ## 💻 Technology Stack:
 <h4 align="left">Programming languages:</h4>
-[![My Skills](https://skillicons.dev/icons?i=go,js,java,cs,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,java,cs,python)](https://skillicons.dev)
 
 
 <h4 align="left">Backend development:</h4>
-[![My Skills](https://skillicons.dev/icons?i=go,spring,dotnet&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,spring,dotnet)](https://skillicons.dev)
 
 
 <h4 align="left">Web (frontend) and Mobile app development:</h4>
-[![My Skills](https://skillicons.dev/icons?i=react,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flutter)](https://skillicons.dev)
 
    
 <h4 align="left">Database Technologies:</h4>
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 
 
 
 <h4 align="left">Cloud:</h4>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
 
 
 <h4 align="left">Other:</h4>
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins)](https://skillicons.dev)
 
 
 <br>
