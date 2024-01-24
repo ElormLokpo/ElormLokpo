@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Elorm Benedict Lokpo</h1>
+<h3 align="center">A passionate backend developer</h3>
 
-<!--
-**ElormLokpo/ElormLokpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **microservices**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **gRPC, REST APIs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **go, nestjs, nodejs**
+
+- 📫 How to reach me **offiallokpoelorm@gmail.com**
+
+<br>
+
+## 💻 Technology Stack:
+<h4 align="left">Programming languages:</h4>
+[![My Skills](https://skillicons.dev/icons?i=go,js,java,cs,python&theme=dark)](https://skillicons.dev)
+
+
+<h4 align="left">Backend development:</h4>
+[![My Skills](https://skillicons.dev/icons?i=go,spring,dotnet&theme=dark)](https://skillicons.dev)
+
+
+<h4 align="left">Web (frontend) and Mobile app development:</h4>
+[![My Skills](https://skillicons.dev/icons?i=react,flutter&theme=dark)](https://skillicons.dev)
+
+   
+<h4 align="left">Database Technologies:</h4>
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb&theme=dark)](https://skillicons.dev)
+
+
+
+<h4 align="left">Cloud:</h4>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark)](https://skillicons.dev)
+
+
+<h4 align="left">Other:</h4>
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins&theme=dark)](https://skillicons.dev)
+
+
+<br>
+
+
+
+
