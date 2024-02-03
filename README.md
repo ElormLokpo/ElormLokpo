@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **go, nestjs, nodejs**
 
-- 📫 How to reach me **offiallokpoelorm@gmail.com**
+- 📫 How to reach me **benedictdev31@gmail.com**
 
 <br /><br />
 
