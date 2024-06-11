@@ -1,11 +1,5 @@
 <h1 align="left">Hello 👋, I'm Elorm Benedict Lokpo</h1>
-<h3 align="left">A passionate backend developer</h3>
-
-- 🔭 I’m currently working on **microservices**
-
-- 👯 I’m looking to collaborate on **gRPC, REST APIs**
-
-- 💬 Ask me about **go, nestjs, nodejs**
+<h3 align="left">A fullstack developer</h3>
 
 - 📫 How to reach me **benedictdev31@gmail.com**
 
