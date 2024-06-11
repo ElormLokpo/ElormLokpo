@@ -10,11 +10,11 @@
 
 <h6>Programming Languages:</h6> 
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,java,cs,python)](https://skillicons.dev) <br />
+[![My Skills](https://skillicons.dev/icons?i=ts,go,js,java,cs,python)](https://skillicons.dev) <br />
 
 <h6>Backend:</h6> 
 
-[![My Skills](https://skillicons.dev/icons?i=go,spring,dotnet)](https://skillicons.dev) <br />
+[![My Skills](https://skillicons.dev/icons?i=ts,express,go,spring,dotnet)](https://skillicons.dev) <br />
 
 <h6>Frontend & Mobile:</h6>
 
