@@ -12,27 +12,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,go,js,java,cs,python)](https://skillicons.dev) <br />
 
-<h6>Backend:</h6> 
+<h6>Stack:</h6> 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,express,go,spring,dotnet)](https://skillicons.dev) <br />
-
-<h6>Frontend & Mobile:</h6>
-
-[![My Skills](https://skillicons.dev/icons?i=react,flutter)](https://skillicons.dev) <br />
-
-<h6>Database:</h6> 
-   
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev) <br />
-
-<h6>Cloud:</h6>
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev) <br />
-
-
-<h6>Others:</h6> 
-
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins)](https://skillicons.dev) <br />
-
+[![My Skills](https://skillicons.dev/icons?i=ts,express,go,dotnet,react,flutter)](https://skillicons.dev) <br />
 
 
 <br />
