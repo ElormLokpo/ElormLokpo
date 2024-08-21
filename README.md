@@ -14,7 +14,7 @@
 
 <h6>Stack:</h6> 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,express,go,dotnet,react,flutter)](https://skillicons.dev) <br />
+[![My Skills](https://skillicons.dev/icons?i=express,go,dotnet,react,flutter)](https://skillicons.dev) <br />
 
 
 <br />
