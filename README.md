@@ -3,8 +3,7 @@
 
 - 📫 How to reach me **benedictdev31@gmail.com**
 
-<br /><br />
-
+<br />
 
 <h5>Technology Stack:</h5>
 
