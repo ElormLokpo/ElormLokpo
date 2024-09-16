@@ -1,9 +1,7 @@
 <h1 align="left">Hello 👋, I'm Elorm Benedict Lokpo</h1>
-<h3 align="left">A data scientist, AI and ML developer </h3>
+<h3 align="left">A data scientist, AI and ML developer. How to reach me **benedictdev31@gmail.com** </h3>
 
-- 📫 How to reach me **benedictdev31@gmail.com**
 
-<br />
 
 <h5>Technology Stack:</h5>
 
