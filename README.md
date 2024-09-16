@@ -7,7 +7,7 @@
 
 <h5>Technology Stack:</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) <br />
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,anaconda)](https://skillicons.dev) <br />
 
 
 <br />
