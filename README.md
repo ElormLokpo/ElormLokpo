@@ -1,11 +1,11 @@
 <h1 align="left">Hello 👋, I'm Elorm Benedict Lokpo</h1>
-<h3 align="left">A data scientist, AI and ML developer. How to reach me **benedictdev31@gmail.com** </h3>
+<h3 align="left">A fullstack developer, data scientist, AI and ML developer. How to reach me **benedictdev31@gmail.com** </h3>
 
 
 
 <h5>Technology Stack:</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,anaconda)](https://skillicons.dev) <br />
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,anaconda,react,nodejs,express,mongodb)](https://skillicons.dev) <br />
 
 
 <br />
