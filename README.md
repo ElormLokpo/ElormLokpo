@@ -1,5 +1,5 @@
 <h3 align="left">Hello 👋, I'm Elorm Benedict Lokpo</h3>
-<h5 align="left">A fullstack developer, AI and ML engineer. How to reach me **benedictdev31@gmail.com** </h5>
+<h5 align="left">A fullstack developer, AI and ML engineer. Email: **benedictdev31@gmail.com** </h5>
 
 <br />
 
