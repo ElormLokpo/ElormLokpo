@@ -1,5 +1,5 @@
 <h3 align="left">Hello 👋, I'm Elorm Benedict Lokpo</h3>
-A software developer with keen interest in Spring Boot, AI, and ML using react and flutter for frontend solutions.
+A software developer with keen interest in Spring Boot, AI, and ML.
 
 
 📧 **Email:** [benedictdev31@gmail.com](mailto:benedictdev31@gmail.com)  
