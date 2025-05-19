@@ -8,7 +8,7 @@ A software developer with keen interest in React, Nodejs Spring Boot, AI, and ML
 <h5 align="left">Languages and Tools:</h5>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,flutter,dotnet,express,go,docker,kafka,kubernetes,nodejs,tensorflow,postgres&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,flutter,dotnet,express,go,docker,kafka,kubernetes,nodejs,tensorflow,postgres&perline=14" />
   </a>
 </p>
 
