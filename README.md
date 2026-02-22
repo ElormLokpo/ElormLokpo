@@ -1,14 +1,14 @@
-<h3 align="left">Hello 👋, I'm Elorm Benedict Lokpo</h3>
-A software developer with keen interest in React, Nodejs Spring Boot, AI, and ML.
+<h3 align="left">Hello 👋, Elorm here.</h3>
+A typescript enthusiast.
 
 
 📧 **Email:** [benedictdev31@gmail.com](mailto:benedictdev31@gmail.com)  
 <br />
 
-<h5 align="left">Languages and Tools:</h5>
+<h5 align="left">Language:</h5>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,flutter,dotnet,express,go,docker,kafka,kubernetes,nodejs,tensorflow,postgres&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts&perline=14" />
   </a>
 </p>
 
