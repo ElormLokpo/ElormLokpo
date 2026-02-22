@@ -2,7 +2,7 @@
 A typescript enthusiast.
 
 
-📧 **Email:** [benedictdev31@gmail.com](mailto:benedictdev31@gmail.com)  
+
 <br />
 
 <h5 align="left">Language:</h5>
