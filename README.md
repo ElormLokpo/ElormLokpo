@@ -1,9 +1,9 @@
-# Hi, I'm Elorm 
+### Hi, I'm Elorm 
 I'm a **beginner flutter developer on a long-term growth journey**, and I'm committed to building real projects, making mistakes, and learning from them.
 
 ---
 
-## 🧑🏾‍💻 What I'm About
+### 🧑🏾‍💻 What I'm About
 
 - 📱 Currently focused on **Flutter & Dart**
 - 🌱 Learning through **projects, experimentation, and consistency**
@@ -12,7 +12,7 @@ I'm a **beginner flutter developer on a long-term growth journey**, and I'm comm
 
 ---
 
-## 🛠️ Current Focus
+### 🛠️ Current Focus
 
 ```text
 Flutter
@@ -36,7 +36,7 @@ My current goal is simple:
 
 ---
 
-## 🧰 Technologies I'm Exploring
+### 🧰 Technologies I'm Exploring
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
