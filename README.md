@@ -47,4 +47,7 @@ My current goal is simple:
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> -->
 </p>
 
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElormLokpo&theme=dark)](https://git.io/streak-stats)
 
