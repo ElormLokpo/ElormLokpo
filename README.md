@@ -1,39 +1,6 @@
 ### Hi, I'm Elorm 
-I'm an **aspiring fullstack web developer**.
+My goal is to ship software products quickly yet efficiently with AI. 
 
----
-
-My stack: Nexjts, Hono.
-
----
-
-### 🧑🏾‍💻 What I'm About
-
-- 📱 Currently focused on **fullstack development with Nextjs and Hono**
-- 🌱 Learning through **projects, experimentation, and consistency**
-- 🏗️ Interested in building applications that solve **real-world problems**
-- 📈 Focused on **long-term growth**
-
----
-
-### 🛠️ Current Focus
-
-```text
-NextJs
-   ↓
-HonoJs
-   ↓
-Web Application Development
-
-```
-
-My current goal is simple:
-
-> **Build enough real-world fullstack applications that I can confidently say I know how to turn an idea into a working product.**
-
-
-
----
 
 ### 🧰 Technologies I'm Exploring
 
