@@ -2,7 +2,7 @@
 My goal is to ship software products quickly yet efficiently with AI. 
 
 
-### 🧰 Technologies I'm Exploring
+### 🧰 Technologies I work with
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> 
