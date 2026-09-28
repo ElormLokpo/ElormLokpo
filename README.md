@@ -1,5 +1,5 @@
 ### Hi, I'm Elorm 
-My goal is to ship software products quickly yet efficiently with AI. 
+My goal is to build software efficiently and ship software products quickly with AI. 
 
 
 ### 🧰 Technologies I work with
