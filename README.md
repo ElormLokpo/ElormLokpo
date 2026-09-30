@@ -17,3 +17,4 @@ My goal is to build software efficiently and ship software products quickly with
 ---
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElormLokpo&theme=dark)](https://git.io/streak-stats)
