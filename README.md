@@ -1,5 +1,5 @@
 ### Hi, I'm Elorm 
-My goal is to build fullstack software products. From web applications, to mobile applications and REST API's. 
+
 
 
 ### 🧰 Technologies I work with
